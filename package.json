@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Duncannjau/Hello-world-Microverse/issues"
   },
-  "homepage": "https://github.com/Duncannjau/Hello-world-Microverse#readme"
+  "homepage": "https://github.com/Duncannjau/Hello-world-Microverse#readme",
+  "devDependencies": {
+    "hint": "^7.1.1"
+  }
 }
